@@ -1,4 +1,4 @@
 numpy==1.24.2
 streamlit==1.18.1
 Scikit-learn ==0.23
-pickle==1.2.3
+pickle5==0.0.11
